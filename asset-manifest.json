@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Cullinary-Delight/static/css/main.5ce6c41e.css",
+    "main.js": "/Cullinary-Delight/static/js/main.33de4a29.js",
+    "static/js/453.8ab44547.chunk.js": "/Cullinary-Delight/static/js/453.8ab44547.chunk.js",
+    "static/media/cannoli.jpg": "/Cullinary-Delight/static/media/cannoli.7c87e7f556a18f2f3499.jpg",
+    "static/media/choose-us-image.jpg": "/Cullinary-Delight/static/media/choose-us-image.2cfd9b2fcf793d69bea6.jpg",
+    "static/media/customer3.jpg": "/Cullinary-Delight/static/media/customer3.975a6dcdb57df85ece10.jpg",
+    "static/media/redSaucePasta.jpg": "/Cullinary-Delight/static/media/redSaucePasta.d4e90c9df17fd1054185.jpg",
+    "static/media/palakPaneer.jpg": "/Cullinary-Delight/static/media/palakPaneer.88266629ee3c3dfbed8d.jpg",
+    "static/media/pizza.jpg": "/Cullinary-Delight/static/media/pizza.fb9cebbfaa1d595c6e70.jpg",
+    "static/media/sandwich.jpg": "/Cullinary-Delight/static/media/sandwich.5750cd0e0b392246d246.jpg",
+    "static/media/friedRice.jpg": "/Cullinary-Delight/static/media/friedRice.c5697d8a40ca4f00b1dc.jpg",
+    "static/media/about-image.jpg": "/Cullinary-Delight/static/media/about-image.835f0e59889822349bd3.jpg",
+    "static/media/whiteSaucePasta.jpg": "/Cullinary-Delight/static/media/whiteSaucePasta.bb29660960f8621c4125.jpg",
+    "static/media/home-background.jpg": "/Cullinary-Delight/static/media/home-background.901b797f27e3037d50b1.jpg",
+    "static/media/soup.jpg": "/Cullinary-Delight/static/media/soup.6fe456529fc267469257.jpg",
+    "static/media/dumplings.jpg": "/Cullinary-Delight/static/media/dumplings.bba1a0c0e57bf1e9350f.jpg",
+    "static/media/paneer.jpg": "/Cullinary-Delight/static/media/paneer.0ef51cfbfa034da58f89.jpg",
+    "static/media/mac_n_cheese.jpg": "/Cullinary-Delight/static/media/mac_n_cheese.e8aea5a2b84fa0da4436.jpg",
+    "static/media/burger.jpg": "/Cullinary-Delight/static/media/burger.fcc4fdf4aeb2bc4e7452.jpg",
+    "static/media/noodles.jpg": "/Cullinary-Delight/static/media/noodles.d6e6d17a1444ddddb9ab.jpg",
+    "static/media/daal.jpg": "/Cullinary-Delight/static/media/daal.529b0700539d0c795250.jpg",
+    "static/media/fries.jpg": "/Cullinary-Delight/static/media/fries.38e80948536cb67cdfd2.jpg",
+    "static/media/customer2.jpg": "/Cullinary-Delight/static/media/customer2.d35d9cbfbd6f51761cd3.jpg",
+    "static/media/customer1.jpg": "/Cullinary-Delight/static/media/customer1.2fcfa2efccf97d66aa64.jpg",
+    "static/media/naan.jpg": "/Cullinary-Delight/static/media/naan.93ee02b4b627ccb931de.jpg",
+    "static/media/logo.png": "/Cullinary-Delight/static/media/logo.5bb487af178548bf114e.png",
+    "index.html": "/Cullinary-Delight/index.html",
+    "main.5ce6c41e.css.map": "/Cullinary-Delight/static/css/main.5ce6c41e.css.map",
+    "main.33de4a29.js.map": "/Cullinary-Delight/static/js/main.33de4a29.js.map",
+    "453.8ab44547.chunk.js.map": "/Cullinary-Delight/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce6c41e.css",
+    "static/js/main.33de4a29.js"
+  ]
+}
