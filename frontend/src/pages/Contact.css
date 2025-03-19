@@ -1,0 +1,123 @@
+.contact-container {
+    background-color: #3e2723;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+}
+
+.contact-heading {
+    font-size: 3rem;
+    margin-bottom: 2%;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 5%;
+}
+
+.contact-details {
+    width: 40%;
+    text-align: left;
+    font-size: 1.2rem;
+    background-color: white;
+    color: #3e2723;
+    height: 70vh;
+    padding: 8%;
+    border-radius: 20px;
+}
+
+.contact-details h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.contact-details p {
+    margin: 10px 0;
+    opacity: 0.9;
+}
+
+.contact-form {
+    width: 40%;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.contact-form h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.contact-form button {
+    width: 100%;
+    background-color: #ff9800;
+    color: white;
+    padding: 10px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #e68a00;
+}
+
+@media (max-width: 768px) {
+    .contact-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-details,
+    .contact-form {
+        width: 90%;
+        height: fit-content;
+        margin-bottom: 2%;
+    }
+
+    .contact-heading {
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-heading {
+        font-size: 2rem;
+    }
+
+    .contact-details h2,
+    .contact-form h2 {
+        font-size: 1.6rem;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        font-size: 0.9rem;
+    }
+
+    .contact-form button {
+        font-size: 1rem;
+    }
+
+    .contact-details {
+        height: fit-content;
+        margin-bottom: 2%;
+    }
+}

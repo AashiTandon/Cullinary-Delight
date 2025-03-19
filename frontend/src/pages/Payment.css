@@ -1,0 +1,36 @@
+.payment-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+}
+
+.payment-heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.total-amount {
+    font-size: 22px;
+    font-weight: bold;
+    color: #28a745;
+    margin-bottom: 30px;
+}
+
+.pay-now-btn {
+    padding: 5px; 
+    font-size: 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: "pointer";
+    height: 5vh;
+    width: 25vw;
+    margin-top: 2%;
+}
+
+.pay-now-btn:hover {
+    background-color: #218838;
+}
