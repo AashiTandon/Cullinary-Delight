@@ -154,7 +154,7 @@
 
 @media (min-width: 769px) and (max-width: 1024px) {
     .choose-us {
-        height: auto;
+        height: fit-content;
         padding: 4% 0;
     }
 
@@ -181,7 +181,7 @@
 
 @media (min-width: 481px) and (max-width: 768px) {
     .choose-us {
-        height: auto;
+        height: fit-content;
         padding: 5% 0;
     }
 
@@ -200,9 +200,10 @@
     }
 
     .chooseUs-content {
-        font-size: 1rem;
+        font-size: 0.8rem;
         text-align: center;
         line-height: 35px;
+        height: fit-content;
     }
 }
 
@@ -227,7 +228,7 @@
     }
 
     .chooseUs-content {
-        font-size: 0.9rem;
+        font-size: 0.6rem;
         text-align: center;
         line-height: 30px;
     }
